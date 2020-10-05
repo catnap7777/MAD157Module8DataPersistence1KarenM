@@ -14,6 +14,7 @@
 		3A54E146252BA250007F3267 /* MAD157Module8DataPersistence1KarenM.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3A54E144252BA250007F3267 /* MAD157Module8DataPersistence1KarenM.xcdatamodeld */; };
 		3A54E148252BA251007F3267 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A54E147252BA251007F3267 /* Assets.xcassets */; };
 		3A54E14B252BA251007F3267 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A54E149252BA251007F3267 /* LaunchScreen.storyboard */; };
+		3A54E153252BA2F4007F3267 /* blueGuitar3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A54E152252BA2F3007F3267 /* blueGuitar3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3A54E147252BA251007F3267 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A54E14A252BA251007F3267 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A54E14C252BA251007F3267 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A54E152252BA2F3007F3267 /* blueGuitar3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blueGuitar3.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				3A54E141252BA250007F3267 /* Main.storyboard */,
 				3A54E147252BA251007F3267 /* Assets.xcassets */,
 				3A54E149252BA251007F3267 /* LaunchScreen.storyboard */,
+				3A54E152252BA2F3007F3267 /* blueGuitar3.png */,
 				3A54E14C252BA251007F3267 /* Info.plist */,
 				3A54E144252BA250007F3267 /* MAD157Module8DataPersistence1KarenM.xcdatamodeld */,
 			);
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A54E14B252BA251007F3267 /* LaunchScreen.storyboard in Resources */,
+				3A54E153252BA2F4007F3267 /* blueGuitar3.png in Resources */,
 				3A54E148252BA251007F3267 /* Assets.xcassets in Resources */,
 				3A54E143252BA250007F3267 /* Main.storyboard in Resources */,
 			);
