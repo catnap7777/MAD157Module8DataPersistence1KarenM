@@ -81,10 +81,10 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JgA-2I-f84" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="255" y="113"/>
+            <point key="canvasLocation" x="-255" y="121"/>
         </scene>
     </scenes>
     <resources>
-        <image name="blueGuitar3.png" width="128" height="128"/>
+        <image name="blueGuitar3.png" width="329.5" height="505"/>
     </resources>
 </document>
